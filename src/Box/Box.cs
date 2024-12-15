@@ -113,7 +113,6 @@ public partial class Box : Node3D
 				GlobalPosition = initialPos;
 			}
 
-			Rotation = Vector3.Zero;
 		}
 	}
 
